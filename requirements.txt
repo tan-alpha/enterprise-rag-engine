@@ -1,0 +1,8 @@
+numpy
+sentence-transformers
+rank_bm25
+ollama
+pydantic
+pyyaml
+pytest
+docling
